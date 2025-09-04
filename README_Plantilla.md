@@ -5,12 +5,12 @@
 
 ## **`Integrante/s`**
 
-- `Nombre 1`  
-- `Nombre 2`
+- `Pedro`  
+- `Lorenzo`
 
-## **`Objetivo`**
+## **`Pedal de guitarra`**
 
-`Breve descripción del propósito del proyecto. Completar una vez definido el proyecto.`
+`Un pedal de guitarra programable que brinda efectos al instumento`
 
 ## **`Descripción del Proyecto`**
 
